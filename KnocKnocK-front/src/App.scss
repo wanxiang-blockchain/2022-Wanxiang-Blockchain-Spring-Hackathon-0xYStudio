@@ -1,0 +1,19 @@
+
+@import "styles/antd_change.css";
+/* @import url("https://fonts.googleapis.com/css?family=PT+Sans+Caption"); */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: OpenSans-Regular  ;
+}
+body {
+  font-family: OpenSans-Regular;
+}
+body.fonts-loaded{
+  font-family:OpenSans-Regular;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}

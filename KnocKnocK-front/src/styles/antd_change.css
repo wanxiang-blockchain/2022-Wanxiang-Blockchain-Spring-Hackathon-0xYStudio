@@ -1,0 +1,50 @@
+/* .update-panel {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+} */
+.update-panel .ant-modal-content {
+  background-color: rgb(23, 23, 26);
+}
+.update-panel .ant-modal-body {
+  padding-bottom: 0.1rem;
+}
+.update-panel .ant-modal-header {
+  background-color: rgb(23, 23, 26);
+  border-bottom: none;
+}
+.update-panel .ant-modal-footer {
+  background-color: rgb(23, 23, 26);
+  border-top: none;
+  padding: 40px 16px;
+}
+
+.update-panel p {
+  font-size: 1rem;
+  padding-top: 1rem;
+  color: #bbb6b6;
+}
+.update-panel .ant-input {
+  background-color: #404040 !important;
+  border: none !important;
+  background-position-x: calc(100% - 15px);
+  line-height: 2.5rem;
+  transition: 0.15s ease;
+  color: white;
+}
+
+/* .updateCascader .ant-cascader-menu {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.update-modal {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+} */
+.update-modal .ant-modal-content {
+  background-color: rgba(0, 0, 0, 0);
+  padding: 0;
+}
+.update-modal .ant-modal-body {
+  padding: 0;
+}
+.ant-spin-dot-item {
+  background-color: #5369cc;
+}
